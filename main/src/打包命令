@@ -1,0 +1,4 @@
+pyinstaller -F -w -i bear.ico clickWindow.py
+
+pyinstaller -F -w -i bear.ico clickWindow.py
+
